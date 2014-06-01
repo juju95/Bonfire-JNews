@@ -1,0 +1,13 @@
+1.1 - 2014-05-23
+----------------
+- Corrected all bugs to make it works "as it" on Bonfire 0.7.1
+
+1.2
+----------------
+- Restrict public shown articles to deleted = 0 
+- Added TinyMCE in themes/admin/js/editors/ to replace Markitup
+- Added Article title in Article URL, better for search engines
+- Added Hours and Minuts in all dates, for webmasters posting more than 1 news per day ;)
+- Changed the datepicker to a better datetime picker ( themes/admin/js & css )
+
+
